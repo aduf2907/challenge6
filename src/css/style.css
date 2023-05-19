@@ -1,0 +1,209 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Navbar */
+.kotak {
+    width: 100px;
+    height: 34px;
+    background-color: #0D28A6;
+    ;
+}
+
+nav {
+    margin-top: 25px;
+    background-color: #F1F3FF;
+    margin-top: 0;
+}
+
+.button-primary {
+    background-color: #5CB85F;
+    border: none;
+    color: white;
+}
+
+.nav-link:hover {
+    font-weight: 700;
+}
+/* Navbar End*/
+
+/* Hero */
+.hero {
+    height: 500px;
+    width: 100%;
+    background-color:#F1F3FF;
+}
+
+.hero-kanan {
+    height: 500px;
+}
+
+.hero-title {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+}
+
+.hero-parg {
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 16px;
+}
+
+.button-primary {
+    padding: 8px 12px;
+}
+
+.background-mobil {
+    margin-top: 100px;
+    width: 704px;
+    height: 243px;
+    background-color: #0D28A6;
+    border-top-left-radius: 50px;
+}
+
+img {
+    margin: 50px 0;
+}
+/* Hero End */
+
+/* cari mobil */
+.cariMobil {
+    margin-top: -50px;
+    position: absolute;
+    margin-left: auto;
+}
+
+.container-cm {
+    width: 1047px;
+    height: 106px;
+    margin-top: -50px;
+    background-color: #fff;
+} 
+
+.button-primary-cm {
+    background-color: #5CB85F;
+    border: none;
+    color: white;
+    width: 92px;
+    height: 36px;
+    margin-left: 70px;
+    margin-top: 15%;
+}
+
+.jdl, .jdl-penumpang{
+    color: #3C3C3C;
+    font-size: 12px;
+}
+
+    input[type="date"] {
+    height: 36px;
+    width: 210.75px;
+} 
+
+#tipeDriver {
+    height: 36px;
+    width: 210.75px;
+    border: 1px black solid;
+}
+
+#waktu {
+    height: 36px;
+    width: 210.75px;
+}
+
+input[type="number"] {
+    height: 36px;
+    width: 210.75px;
+    margin-left: 95px;
+} 
+
+.jdl-penumpang {
+    margin-left: 70px;
+}
+
+/* Cars */
+.container-car {
+    margin-top: 100px;
+    margin-left: 10%;
+}
+
+/* Our service */
+.our-service {
+    margin: 150px;
+}
+
+.service {
+    margin-top: 100px;
+}
+/* Our service End */
+
+/* Why Us */
+.why-us-title {
+    font-size: 24px;
+}
+
+.border {
+    width: 268px;
+    height: 196px;
+    margin-bottom: 100px;
+    padding: 15px;
+}
+
+h3 {
+    font-size: 16px;
+}
+
+.why-us-text {
+    font-size: 14px;
+}
+/* Why Us End*/
+
+/* Testimoni */
+.testi-title {
+    font-size: 24px;
+    margin-top: 50px;
+}
+
+.testi-text {
+    font-size: 14px;
+}
+/* Testimoni End */
+
+/* Banner */
+.banner-custom {
+    width: 1168px;
+    height: 326px;
+    background-color: #0D28A6;
+    padding: 50px;
+}
+
+.banner-text {
+    font-size: 14px;
+}
+/* Banner */
+
+/* FAQ */
+.faq-title {
+    font-size: 24px;
+}
+
+.faq-p {
+    font-size: 14px;
+}
+/* FAQ End */
+
+/* Footer */
+.footer {
+    margin-top: 6500px;
+}
+
+.bawah {
+    margin-top: 100%;
+    margin-bottom: 100px;
+}
+
+.ft {
+    font-size: 14px;
+}
+/* Footer End */
